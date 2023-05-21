@@ -1,0 +1,25 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "Files",
+  "vimMode": true,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es"
+  ],
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useTab": false
+}

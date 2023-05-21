@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"faa95f309f0b4e15","x":279,"y":-390,"width":250,"height":50,"type":"text","text":"Concepciones del mundo"},
+		{"id":"a1878a23895ce98e","x":-873,"y":-314,"width":250,"height":50,"color":"4","type":"text","text":"Experiencias pasadas"},
+		{"id":"c7bfe8edc194bead","x":-873,"y":-227,"width":250,"height":60,"type":"text","text":"Entornos culturales específicos."},
+		{"id":"4fa5e2497d47ee87","x":-998,"y":173,"width":250,"height":60,"type":"text","text":"Limitan nuestra visión del mundo."},
+		{"id":"74ee0d1ad6b8ec18","x":238,"y":348,"width":250,"height":60,"type":"text","text":"Comprenderlo"},
+		{"id":"9961b750b1a444ba","x":238,"y":468,"width":250,"height":60,"type":"text","text":"Decidir"},
+		{"id":"958d7e67cdeba71d","x":238,"y":408,"width":250,"height":60,"type":"text","text":"Evaluarlo"},
+		{"id":"98617a2e3250690e","x":644,"y":262,"width":250,"height":86,"type":"text","text":"Saber de dónde surgió y cómo limita mi visión del mundo."},
+		{"id":"9174452107e3029e","x":644,"y":393,"width":250,"height":90,"type":"text","text":"Cómo me hace sentir, actuar y si sería liberador el renunciar a él."},
+		{"id":"37fc284d343aaa87","x":644,"y":528,"width":250,"height":60,"type":"text","text":"¿Debería conservarlo?"},
+		{"id":"763321537bc82f16","x":-748,"y":351,"width":250,"height":132,"type":"text","text":"No son una representación exacta, y muchas veces ni siquiera aproximada de lo que es la realidad."},
+		{"id":"89d09e90ccb6f9e2","x":279,"y":-167,"width":250,"height":66,"type":"text","text":"Mapas que nos guían en nuestra vida."},
+		{"id":"be52e5907e61e5b1","x":-370,"y":-227,"width":400,"height":400,"type":"file","file":"Notes/Paradigmas.md"},
+		{"id":"7e084aa0b03d7462","x":-1188,"y":-562,"width":250,"height":60,"type":"text","text":"Paradigmas personales"},
+		{"id":"f5f187ad5a884d91","x":-1313,"y":-344,"width":250,"height":60,"type":"text","text":"Paradigmas sociales"}
+	],
+	"edges":[
+		{"id":"0c094af03d54b49e","fromNode":"be52e5907e61e5b1","fromSide":"right","toNode":"faa95f309f0b4e15","toSide":"left","label":"son"},
+		{"id":"6afcc9173007e021","fromNode":"be52e5907e61e5b1","fromSide":"right","toNode":"89d09e90ccb6f9e2","toSide":"left"},
+		{"id":"c9f77ec2fa8ca85b","fromNode":"be52e5907e61e5b1","fromSide":"left","toNode":"a1878a23895ce98e","toSide":"right","label":"surgen a partir de"},
+		{"id":"0e644852d524b8b4","fromNode":"be52e5907e61e5b1","fromSide":"left","toNode":"c7bfe8edc194bead","toSide":"right"},
+		{"id":"18a511237e2d86dc","fromNode":"be52e5907e61e5b1","fromSide":"left","toNode":"4fa5e2497d47ee87","toSide":"right","label":"me pueden afectar porque"},
+		{"id":"88d1627336acf470","fromNode":"be52e5907e61e5b1","fromSide":"left","toNode":"763321537bc82f16","toSide":"right"},
+		{"id":"6231ee4f2af340c2","fromNode":"be52e5907e61e5b1","fromSide":"bottom","toNode":"74ee0d1ad6b8ec18","toSide":"left","label":"formas de cambiarlos"},
+		{"id":"d010e01ba0734023","fromNode":"be52e5907e61e5b1","fromSide":"bottom","toNode":"958d7e67cdeba71d","toSide":"left"},
+		{"id":"ebc5a20cc9b34bc7","fromNode":"be52e5907e61e5b1","fromSide":"bottom","toNode":"9961b750b1a444ba","toSide":"left"},
+		{"id":"b325ef8fdc82dd19","fromNode":"958d7e67cdeba71d","fromSide":"right","toNode":"9174452107e3029e","toSide":"left"},
+		{"id":"4d4de87783afb785","fromNode":"74ee0d1ad6b8ec18","fromSide":"right","toNode":"98617a2e3250690e","toSide":"left"},
+		{"id":"2caf1f85e2515266","fromNode":"9961b750b1a444ba","fromSide":"right","toNode":"37fc284d343aaa87","toSide":"left"},
+		{"id":"1ed6f5815331a516","fromNode":"a1878a23895ce98e","fromSide":"top","toNode":"faa95f309f0b4e15","toSide":"top","label":"generan"},
+		{"id":"501aca9ae974341b","fromNode":"a1878a23895ce98e","fromSide":"left","toNode":"4fa5e2497d47ee87","toSide":"top"},
+		{"id":"169b22853061e426","fromNode":"763321537bc82f16","fromSide":"right","toNode":"89d09e90ccb6f9e2","toSide":"bottom","label":"cuidado"},
+		{"id":"de8d6aa1bf8590ea","fromNode":"98617a2e3250690e","fromSide":"top","toNode":"faa95f309f0b4e15","toSide":"right"},
+		{"id":"fb158804ff271792","fromNode":"a1878a23895ce98e","fromSide":"top","toNode":"7e084aa0b03d7462","toSide":"bottom"},
+		{"id":"9ea5e8f1c3fde407","fromNode":"c7bfe8edc194bead","fromSide":"left","toNode":"f5f187ad5a884d91","toSide":"right"},
+		{"id":"d032f14e4baf9cd2","fromNode":"c7bfe8edc194bead","fromSide":"left","toNode":"4fa5e2497d47ee87","toSide":"top"}
+	]
+}

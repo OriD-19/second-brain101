@@ -1,0 +1,11 @@
+{
+  "accentColor": "#e6c1c1",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Segoe UI,Tw Cen MT,JetBrainsMono NF,FiraCode NF",
+  "textFontFamily": "Tw Cen MT,Segoe UI,JetBrainsMono NF,FiraCode NF",
+  "translucency": true,
+  "nativeMenus": false,
+  "baseFontSize": 20,
+  "baseFontSizeAction": true
+}
