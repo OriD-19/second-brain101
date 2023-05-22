@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "037fe2d4ef66cd0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -151,11 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5450b7aafa93979",
+  "active": "037fe2d4ef66cd0a",
   "lastOpenFiles": [
+    "Notes/LengIILectI_Cómo hacer resúmenes.md",
+    "conflict-files-obsidian-git.md",
     "Notes/Git Steps To Setup.md",
     "Notes/EmpILectI_El ADN del innovador.md",
-    "Notes/LengIILectI_Cómo hacer resúmenes.md",
     "Templates/new_note.md",
     "Templates",
     "References/My Library.bib",
@@ -181,7 +195,6 @@
     "Notes/Notas antiguas/Types.md",
     "Notes/Notas antiguas/TON Blockchain.md",
     "Notes/Notas antiguas/The evolution of the web.md",
-    "Notes/Notas antiguas/Smart Contract.md",
     "Notes/Notas antiguas/Paradigmas.canvas",
     "Notes/Notas antiguas",
     "Notes/NeetCode150",
