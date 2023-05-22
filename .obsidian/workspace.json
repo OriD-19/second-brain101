@@ -11,38 +11,6 @@
             "id": "20d612b58b0e362f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "79880ccaa1d19a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4580bed5e0f85b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/EmpILectI_El ADN del innovador.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e35e5a34a9f871c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Git Steps To Setup.md",
@@ -51,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,38 +166,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e35e5a34a9f871c",
+  "active": "20d612b58b0e362f",
   "lastOpenFiles": [
-    "Notes/EmpILectI_El ADN del innovador.md",
-    "Notes/Git Steps To Setup.md",
-    "Notes/LengIILectI_Cómo hacer resúmenes.md",
+    "Templates/new_note.md",
+    "Templates",
+    "References/My Library.bib",
+    "References/@[2206.08821] Exploring Web3 From the View of Blockchain (2022).md",
+    "References/@What is a Database Cursor_ (2021).md",
+    "References/@Shanzhai (2022).md",
+    "References/@Texto N5 Jostein - El mundo de Sofía.Pdf (2023).md",
+    "References/@Los 7 hábitos de la gente altamente efectiva (2003).md",
+    "References/@Principles of Algorithmic Problem Solving ().md",
+    "References/@Laravel - The PHP Framework For Web Artisans ().md",
+    "References/@La polis ().md",
+    "References/@La necesidad de filosofar ().md",
+    "References/@Decentralized AI_ Edge Intelligence and Smart Blockchain, Metaverse, Web3, and DeSci (2022).md",
+    "References/@InterPlanetary File System (2022).md",
+    "References/@Clustered file system (2022).md",
+    "References/@3 mitos lejanos.pdf ().md",
+    "References",
+    "Notes/NeetCode150/Top K Frequent Elements (Medium).md",
     "Notes/NeetCode150/Product Array Except Self.md",
     "Notes/NeetCode150/Min Stack.md",
-    "Notes/NeetCode150/Top K Frequent Elements (Medium).md",
-    "Notes/CP Exercises/Exercise 1.10.md",
-    "Notes/CP Exercises/Exercise 1.9.md",
-    "Notes/CP Exercises/Exercise 1.2.md",
+    "Notes/Notas antiguas/Web3.md",
+    "Notes/Notas antiguas/Web3 Fundamentals.md",
+    "Notes/Notas antiguas/Uso de la coma.md",
+    "Notes/Notas antiguas/Types.md",
+    "Notes/Notas antiguas/Transactions.md",
+    "Notes/Notas antiguas/TON Blockchain.md",
+    "Notes/Notas antiguas/The evolution of the web.md",
+    "Notes/Notas antiguas/Smart Contract.md",
+    "Notes/Notas antiguas/Sinergia.md",
+    "Notes/Notas antiguas/Paradigmas.canvas",
     "Notes/NeetCode150",
-    "Notes/new-note.md",
-    "Notes/Introduction to algorithms/Exercise 1.1-2.md",
-    "References/@What is a Database Cursor_ (2021).md",
-    "Notes/Notas antiguas/Database Cursor.md",
-    "Notes/Notas antiguas/Cells.md",
-    "Excalidraw/Repaso Historia de las Ideas de Occidente.md",
-    "Calendar/2023-05-16 Entrega lenguaje.md",
-    "2023-05-16 Entrega lenguaje.md",
-    "Calendar",
-    "2023-05-16 Entrega de lenguaje.md",
-    "Notes/C1Emp2_Mi nueva nota.md",
-    "Templates/new_note.md",
-    "Notes/C2Emp1_Mi nueva nota.md",
-    "Notes/C2Emp1_Mi nuevo novio!.md",
-    "Notes/C1Emp1 Mi nuevo sistema.md",
-    "Notes/202305112010 The new note.md",
-    "Notes/Breve historia de la economía/P3 En busca del oro.md",
-    "Notes/Basic patterns.md",
+    "Notes/Notas antiguas",
+    "Notes/Introduction to algorithms",
+    "Notes/Daily notes",
+    "Notes/CP Exercises",
     "Notes/Breve historia de la economía",
-    "Excalidraw/Repaso Historia de las Ideas de Occidente.png",
-    "Excalidraw/Repaso Historia de las Ideas de Occidente.svg"
+    "Notes",
+    "Files/Pasted image 20230218172728.png",
+    "Files/Pasted image 20230218171623.png",
+    "Files/Pasted Image 20230218154659_483.png",
+    "Files/Pasted image 20230126103516.png",
+    "Files/Pasted image 20230122111614.png",
+    "Files/Pasted image 20221229092358.png",
+    "Files/Pasted image 20221229091858.png",
+    "Files/Pasted image 20221216160124.png",
+    "Files/Pasted image 20221229091306.png",
+    "Files/Pasted image 20221216151206.png"
   ]
 }
