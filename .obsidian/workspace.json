@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e35e5a34a9f871c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Git Steps To Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/EmpILectI_El ADN del innovador.md",
+                "file": "Notes/Git Steps To Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/EmpILectI_El ADN del innovador.md"
+                "file": "Notes/Git Steps To Setup.md"
               }
             }
           },
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/EmpILectI_El ADN del innovador.md",
+                "file": "Notes/Git Steps To Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,10 +199,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4580bed5e0f85b0",
+  "active": "6e35e5a34a9f871c",
   "lastOpenFiles": [
-    "Notes/LengIILectI_Cómo hacer resúmenes.md",
     "Notes/EmpILectI_El ADN del innovador.md",
+    "Notes/Git Steps To Setup.md",
+    "Notes/LengIILectI_Cómo hacer resúmenes.md",
     "Notes/NeetCode150/Product Array Except Self.md",
     "Notes/NeetCode150/Min Stack.md",
     "Notes/NeetCode150/Top K Frequent Elements (Medium).md",
@@ -216,7 +229,6 @@
     "Notes/202305112010 The new note.md",
     "Notes/Breve historia de la economía/P3 En busca del oro.md",
     "Notes/Basic patterns.md",
-    "Notes/This.md",
     "Notes/Breve historia de la economía",
     "Excalidraw/Repaso Historia de las Ideas de Occidente.png",
     "Excalidraw/Repaso Historia de las Ideas de Occidente.svg"
