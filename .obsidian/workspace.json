@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Git Steps To Setup.md",
+                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Git Steps To Setup.md",
+                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Git Steps To Setup.md",
+                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Git Steps To Setup.md"
+                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md"
               }
             }
           }
@@ -151,11 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59b5a65ddef067ed",
+  "active": "c5450b7aafa93979",
   "lastOpenFiles": [
+    "Notes/Git Steps To Setup.md",
     "Notes/EmpILectI_El ADN del innovador.md",
     "Notes/LengIILectI_Cómo hacer resúmenes.md",
-    "Notes/Git Steps To Setup.md",
     "Templates/new_note.md",
     "Templates",
     "References/My Library.bib",
