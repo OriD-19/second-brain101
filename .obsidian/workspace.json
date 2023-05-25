@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74f1e4efd30303cb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43c5bb1a2479c42a",
+  "active": "74f1e4efd30303cb",
   "lastOpenFiles": [
     "Notes/Simetría dada una función.md",
     "Notes/LengIILectI_Cómo hacer resúmenes.md",
