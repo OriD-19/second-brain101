@@ -13,36 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md",
+                "file": "Notes/EmpILectI_El ADN del innovador.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43c5bb1a2479c42a",
+            "id": "7bb2c337960b5edf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md",
+                "file": "Notes/EmpILectII_Segmenta el mercado.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "74f1e4efd30303cb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md",
+                "file": "Notes/EmpILectII_Segmenta el mercado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md",
+                "file": "Notes/EmpILectII_Segmenta el mercado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LengIILectI_Cómo hacer resúmenes.md"
+                "file": "Notes/EmpILectII_Segmenta el mercado.md"
               }
             }
           }
@@ -175,14 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74f1e4efd30303cb",
+  "active": "7bb2c337960b5edf",
   "lastOpenFiles": [
-    "Notes/Simetría dada una función.md",
+    "Notes/EmpILectI_El ADN del innovador.md",
+    "Notes/EmpILectII_Segmenta el mercado.md",
+    "Notes/Emprendimiento I.md",
     "Notes/LengIILectI_Cómo hacer resúmenes.md",
+    "Notes/Simetría dada una función.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "Notes/Git Steps To Setup.md",
-    "Notes/EmpILectI_El ADN del innovador.md",
     "Templates/new_note.md",
     "Templates",
     "References/My Library.bib",
@@ -204,8 +196,6 @@
     "Notes/Notas antiguas/Web3.md",
     "Notes/Notas antiguas/Uso de la coma.md",
     "Notes/Notas antiguas/Transactions.md",
-    "Notes/Notas antiguas/Types.md",
-    "Notes/Notas antiguas/TON Blockchain.md",
     "Notes/Notas antiguas/Paradigmas.canvas",
     "Notes/Notas antiguas",
     "Notes/NeetCode150",
