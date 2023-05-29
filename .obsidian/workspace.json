@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0e4d5eb0ee0e9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/ProyectoInt_Resultados de la investigación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "465ca71036457829",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/EmpILectII_Segmenta el mercado.md",
+                "file": "Notes/ProyectoInt_Resultados de la investigación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/EmpILectII_Segmenta el mercado.md",
+                "file": "Notes/ProyectoInt_Resultados de la investigación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/EmpILectII_Segmenta el mercado.md"
+                "file": "Notes/ProyectoInt_Resultados de la investigación.md"
               }
             }
           }
@@ -165,10 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bb2c337960b5edf",
+  "active": "c0e4d5eb0ee0e9cc",
   "lastOpenFiles": [
-    "Notes/EmpILectI_El ADN del innovador.md",
+    "References/@La Inteligencia Artificial impulsa el crecimiento de las empresas (2022).md",
+    "References/@Como la Inteligencia Artificial puede apoyar el crecimiento (2017).md",
+    "References/@10 ejemplos exitosos de Inteligencia Artificial en las empresas (2021).md",
     "Notes/EmpILectII_Segmenta el mercado.md",
+    "Notes/ProyectoInt_Resultados de la investigación.md",
+    "Notes/EmpILectI_El ADN del innovador.md",
     "Notes/Emprendimiento I.md",
     "Notes/LengIILectI_Cómo hacer resúmenes.md",
     "Notes/Simetría dada una función.md",
@@ -192,10 +207,6 @@
     "References/@3 mitos lejanos.pdf ().md",
     "References/@Clustered file system (2022).md",
     "References",
-    "Notes/Notas antiguas/Web3 Fundamentals.md",
-    "Notes/Notas antiguas/Web3.md",
-    "Notes/Notas antiguas/Uso de la coma.md",
-    "Notes/Notas antiguas/Transactions.md",
     "Notes/Notas antiguas/Paradigmas.canvas",
     "Notes/Notas antiguas",
     "Notes/NeetCode150",
