@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Simetría dada una función.md",
+                "file": "Notes/Background Document.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Simetría dada una función.md",
+                "file": "Notes/Background Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Simetría dada una función.md",
+                "file": "Notes/Background Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Simetría dada una función.md"
+                "file": "Notes/Background Document.md"
               }
             }
           }
@@ -190,13 +190,18 @@
   },
   "active": "7f1e736baced5566",
   "lastOpenFiles": [
+    "Notes/Mathematical Thinking/Mathematical Thinking.md",
+    "Notes/Background Document.md",
     "Notes/EmpILectI_El ADN del innovador.md",
+    "Notes/Mathematical Thinking/Language and proofs.md",
+    "Notes/Mathematical Thinking/What is mathematics.md",
+    "Notes/ProyectoInt_Resultados de la investigación.md",
     "Notes/EmpILectII_Segmenta el mercado.md",
+    "Notes/Simetría dada una función.md",
+    "Notes/Mathematical Thinking",
     "Notes/Emprendimiento I.md",
     "Notes/Git Steps To Setup.md",
     "Notes/LengIILectI_Cómo hacer resúmenes.md",
-    "Notes/Simetría dada una función.md",
-    "Notes/ProyectoInt_Resultados de la investigación.md",
     "Notes/ProyectoInt_El verdadero investigador.md",
     "References/@La Inteligencia Artificial impulsa el crecimiento de las empresas (2022).md",
     "References/@Como la Inteligencia Artificial puede apoyar el crecimiento (2017).md",
@@ -214,10 +219,6 @@
     "References/@Los 7 hábitos de la gente altamente efectiva (2003).md",
     "References/@Decentralized AI_ Edge Intelligence and Smart Blockchain, Metaverse, Web3, and DeSci (2022).md",
     "References/@Principles of Algorithmic Problem Solving ().md",
-    "References/@Laravel - The PHP Framework For Web Artisans ().md",
-    "References/@La polis ().md",
-    "References/@InterPlanetary File System (2022).md",
-    "References/@3 mitos lejanos.pdf ().md",
     "References",
     "Notes/Notas antiguas/Paradigmas.canvas",
     "Notes/Notas antiguas",
@@ -226,7 +227,6 @@
     "Notes/Daily notes",
     "Notes/CP Exercises",
     "Notes/Breve historia de la economía",
-    "Notes",
     "Files/Pasted image 20230218172728.png",
     "Files/Pasted image 20230218171623.png",
     "Files/Pasted image 20230126103516.png",
