@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Background Document.md",
+                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mathematical Thinking/What is mathematics.md",
+                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematical Thinking/What is mathematics.md",
+                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematical Thinking/What is mathematics.md",
+                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematical Thinking/What is mathematics.md"
+                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md"
               }
             }
           }
@@ -165,15 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7550e97c9532338c",
+  "active": "6f8eb11edc92a177",
   "lastOpenFiles": [
-    "Notes/Background Document.md",
     "Notes/Mathematical Thinking/What is mathematics.md",
     "Notes/Mathematical Thinking/Mathematical Thinking.md",
+    "Notes/Mathematical Thinking/Language and proofs.md",
+    "Notes/Background Document.md",
+    "Notes/Mathematical Thinking/~syncthing~Mathematical Thinking.md.tmp",
     "Notes/EmpILectI_El ADN del innovador.md",
     "Notes/ProyectoInt_Resultados de la investigación.md",
     "Notes/EmpILectII_Segmenta el mercado.md",
-    "Notes/Mathematical Thinking/Language and proofs.md",
     "Notes/Simetría dada una función.md",
     "Notes/Mathematical Thinking",
     "Notes/Emprendimiento I.md",
@@ -195,7 +195,6 @@
     "References/@Shanzhai (2022).md",
     "References/@Los 7 hábitos de la gente altamente efectiva (2003).md",
     "References/@Decentralized AI_ Edge Intelligence and Smart Blockchain, Metaverse, Web3, and DeSci (2022).md",
-    "References/@Principles of Algorithmic Problem Solving ().md",
     "References",
     "Notes/Notas antiguas/Paradigmas.canvas",
     "Notes/Notas antiguas",
@@ -203,7 +202,6 @@
     "Notes/Introduction to algorithms",
     "Notes/Daily notes",
     "Notes/CP Exercises",
-    "Notes/Breve historia de la economía",
     "Files/Pasted image 20230218172728.png",
     "Files/Pasted image 20230218171623.png",
     "Files/Pasted image 20230126103516.png",
