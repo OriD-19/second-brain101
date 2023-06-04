@@ -6,7 +6,7 @@ In the modern day, mathematics can be thought of as "Design Thinking" for abstra
 
 That is, **adapt old methods and develop new ones**.
 
-## Quizz result
+## Quiz result
 First try: 4 / 4.
 
 --- 
