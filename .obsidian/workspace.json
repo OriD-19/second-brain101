@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Tareas pendientes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md",
+                "file": "Notes/Tareas pendientes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md",
+                "file": "Notes/Tareas pendientes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md"
+                "file": "Notes/Tareas pendientes.md"
               }
             }
           }
@@ -164,13 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f8eb11edc92a177",
+  "active": "1fe7be5c6ccb999a",
   "lastOpenFiles": [
+    "Notes/EmpI_Lecturas pendientes.md",
     "Notes/Tareas pendientes.md",
     "Notes/Mathematical Thinking/Mathematical Thinking.md",
     "Notes/Notas antiguas/Laravel Pending concepts.md",
     "Notes/Notas antiguas/Liderazgo - Workshop.md",
-    "Notes/EmpI_Lecturas pendientes.md",
     "Notes/Mathematical Thinking/What is mathematics.md",
     "Notes/Mathematical Thinking/Language and proofs.md",
     "Notes/Background Document.md",

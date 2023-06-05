@@ -7,8 +7,8 @@ date: 2023-06-04 15:49
 
 ## Lecturas para el control 2
 
-- [ ] Design Thinking Cap. 1 - 4 (repaso).
-- [ ] La disciplina de emprender.
+- [ ] Design Thinking Cap. 1 - 4 (repaso). 🔽 📅 2023-06-08
+- [ ] La disciplina de emprender. 🔼 📅 2023-06-08
     - [ ] Paso 2
     - [ ] Paso 3
     - [ ] Paso 4
