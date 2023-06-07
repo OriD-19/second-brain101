@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/ProyectoInt_Investigación.md",
+                "file": "Notes/Competitive Programming/USACO/Censoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/ProyectoInt_Investigación.md",
+                "file": "Notes/Competitive Programming/USACO/Censoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/ProyectoInt_Investigación.md",
+                "file": "Notes/Competitive Programming/USACO/Censoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/ProyectoInt_Investigación.md"
+                "file": "Notes/Competitive Programming/USACO/Censoring.md"
               }
             }
           }
@@ -192,7 +192,10 @@
   "active": "c6bd0d6f85afbbbb",
   "lastOpenFiles": [
     "Notes/Tareas pendientes.md",
+    "Notes/Competitive Programming/USACO/Censoring.md",
     "Notes/ProyectoInt_Investigación.md",
+    "Notes/Competitive Programming/USACO",
+    "Notes/Competitive Programming",
     "Notes/ProyectoInt_Resultados de la investigación.md",
     "Notes/ProyectoInt_Revisión bibliográfica.md",
     "Notes/Ejes de respuesta de la revisión bibliográfica.md",
@@ -219,15 +222,12 @@
     "References/@La Inteligencia Artificial impulsa el crecimiento de las empresas (2022).md",
     "References/@Como la Inteligencia Artificial puede apoyar el crecimiento (2017).md",
     "References/@10 ejemplos exitosos de Inteligencia Artificial en las empresas (2021).md",
-    "conflict-files-obsidian-git.md",
     "Templates",
     "References/My Library.bib",
     "References",
     "Notes/Notas antiguas/Paradigmas.canvas",
     "Notes/Notas antiguas",
     "Notes/NeetCode150",
-    "Notes/Introduction to algorithms",
-    "Notes/Daily notes",
     "Files/Pasted image 20230218172728.png",
     "Files/Pasted image 20230218171623.png",
     "Files/Pasted image 20230126103516.png",
