@@ -26,13 +26,37 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Tareas pendientes.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6bd0d6f85afbbbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/ProyectoInt_Investigación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e626a4cff685138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Tareas pendientes.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Tareas pendientes.md",
+                "file": "Notes/ProyectoInt_Investigación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Tareas pendientes.md",
+                "file": "Notes/ProyectoInt_Investigación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Tareas pendientes.md"
+                "file": "Notes/ProyectoInt_Investigación.md"
               }
             }
           }
@@ -165,12 +189,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fe7be5c6ccb999a",
+  "active": "c6bd0d6f85afbbbb",
   "lastOpenFiles": [
+    "Notes/Tareas pendientes.md",
+    "Notes/ProyectoInt_Investigación.md",
+    "Notes/ProyectoInt_Resultados de la investigación.md",
+    "Notes/ProyectoInt_Revisión bibliográfica.md",
+    "Notes/Ejes de respuesta de la revisión bibliográfica.md",
+    "Notes/Metodología de la revisión bibliográfica.md",
+    "Notes/Resumen de una revisión bibliográfica.md",
     "Notes/Mathematical Thinking/Mathematical Thinking.sync-conflict-20230604-213322-ECTBX6Q.md",
     "Notes/Mathematical Thinking/~syncthing~Mathematical Thinking.sync-conflict-20230604-213322-ECTBX6Q.md.tmp",
     "Notes/EmpI_Lecturas pendientes.md",
-    "Notes/Tareas pendientes.md",
     "Notes/Mathematical Thinking/Mathematical Thinking.md",
     "Notes/Notas antiguas/Laravel Pending concepts.md",
     "Notes/Notas antiguas/Liderazgo - Workshop.md",
@@ -179,7 +209,6 @@
     "Notes/Background Document.md",
     "Notes/Mathematical Thinking/~syncthing~Mathematical Thinking.md.tmp",
     "Notes/EmpILectI_El ADN del innovador.md",
-    "Notes/ProyectoInt_Resultados de la investigación.md",
     "Notes/EmpILectII_Segmenta el mercado.md",
     "Notes/Simetría dada una función.md",
     "Notes/Mathematical Thinking",
@@ -191,13 +220,8 @@
     "References/@Como la Inteligencia Artificial puede apoyar el crecimiento (2017).md",
     "References/@10 ejemplos exitosos de Inteligencia Artificial en las empresas (2021).md",
     "conflict-files-obsidian-git.md",
-    "README.md",
-    "Templates/new_note.md",
     "Templates",
     "References/My Library.bib",
-    "References/@La necesidad de filosofar ().md",
-    "References/@[2206.08821] Exploring Web3 From the View of Blockchain (2022).md",
-    "References/@What is a Database Cursor_ (2021).md",
     "References",
     "Notes/Notas antiguas/Paradigmas.canvas",
     "Notes/Notas antiguas",
