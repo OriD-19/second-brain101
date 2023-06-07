@@ -46,4 +46,4 @@ int main() {
 ```
 
 Notes:
-- The use of `string.resize()` instead of substring, which is way faster!
+    - The use of `string.resize()` instead of substring, which is way faster!

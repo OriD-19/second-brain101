@@ -13,9 +13,9 @@ date: 2023-06-04 15:49
     - [ ] Paso 3
     - [ ] Paso 4
     - [ ] Paso 5
-    - [ ] Paso 6
-    - [ ] Paso 7
-    - [ ] Paso 8
+    - [x] Paso 6 ✅ 2023-06-07
+    - [x] Paso 7 ✅ 2023-06-07
+    - [x] Paso 8 ✅ 2023-06-07
     - [ ] Paso 9
 - [ ] Generación de modelos de negocios: Capítulo 2.
 
