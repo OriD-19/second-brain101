@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 14:37:04
+    %% Current Time: 14:53:00
     section Tasks
     Work on research     :15-00, 120mm
     More research     :18-00, 0mm
