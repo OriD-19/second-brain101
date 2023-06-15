@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f8eb11edc92a177",
+            "id": "1fe7be5c6ccb999a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "199ac871d4cb4c20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/ProyectoInt_Revisión bibliográfica.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fe7be5c6ccb999a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Tareas pendientes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6bd0d6f85afbbbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Competitive Programming/USACO/Censoring.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/ProyectoInt_Revisión bibliográfica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/ProyectoInt_Revisión bibliográfica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/ProyectoInt_Revisión bibliográfica.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -190,14 +170,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f8eb11edc92a177",
+  "active": "1fe7be5c6ccb999a",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
     "Notes/ProyectoInt_Revisión bibliográfica.md",
+    "Notes/Tareas pendientes.md",
+    "Notes/Competitive Programming/USACO/Censoring.md",
+    "Untitled.canvas",
+    "References/@Inteligencia Artificial_ el futuro del empleo (2023).md",
+    "Notes/Untitled.md",
     "Notes/Introducción de una revisión bibliográfica.md",
     "Day Planners/Day Planner-20230614.md",
     "Notes/Mathematical Thinking/Mathematical Thinking.md",
-    "Notes/Tareas pendientes.md",
-    "Notes/Competitive Programming/USACO/Censoring.md",
     "Day Planners/Day Planner-20230613.md",
     "Day Planners",
     "Notes/ProyectoInt_Investigación.md",
@@ -221,9 +205,6 @@
     "Notes/Simetría dada una función.md",
     "Notes/Mathematical Thinking",
     "Notes/Emprendimiento I.md",
-    "Notes/Git Steps To Setup.md",
-    "Notes/LengIILectI_Cómo hacer resúmenes.md",
-    "Notes/ProyectoInt_El verdadero investigador.md",
     "Templates",
     "References/My Library.bib",
     "References",
