@@ -21,13 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/ProyectoInt_Revisión bibliográfica.md",
-                "mode": "source",
+                "file": "Notes/Introducción de una revisión bibliográfica.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Introducción de una revisión bibliográfica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Introducción de una revisión bibliográfica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Introducción de una revisión bibliográfica.md"
+              }
             }
           }
         ]
@@ -170,10 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1fe7be5c6ccb999a",
+  "active": "199ac871d4cb4c20",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
     "Notes/ProyectoInt_Revisión bibliográfica.md",
+    "Mind Maps",
+    "Untitled 1.canvas",
     "Notes/Tareas pendientes.md",
     "Notes/Competitive Programming/USACO/Censoring.md",
     "Untitled.canvas",
@@ -209,7 +215,6 @@
     "References/My Library.bib",
     "References",
     "Notes/Notas antiguas/Paradigmas.canvas",
-    "Notes/Notas antiguas",
     "Files/Pasted image 20230218172728.png",
     "Files/Pasted image 20230218171623.png",
     "Files/Pasted image 20230126103516.png",

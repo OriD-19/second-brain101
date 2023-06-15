@@ -27,7 +27,8 @@
   "anuppuccin-theme-settings@@anp-translucency-opacity": 0.15,
   "anuppuccin-theme-settings@@anp-custom-bg-brightness-dark": 0.7,
   "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 5,
-  "anuppuccin-theme-settings@@anp-toggle-preview": false,
+  "anuppuccin-theme-settings@@anp-toggle-preview": true,
   "anuppuccin-theme-settings@@anp-decoration-toggle": false,
-  "anuppuccin-theme-settings@@anp-canvas-dark-bg": true
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
+  "anuppuccin-theme-settings@@anp-table-toggle": false
 }
