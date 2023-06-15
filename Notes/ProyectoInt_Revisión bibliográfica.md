@@ -11,6 +11,7 @@ El objetivo es obtener una respuesta para dicha pregunta con base en la literatu
 
 ## Características de una revisión bibliográfica
 - [[Resumen de una revisión bibliográfica]]
+- [[Introducción de una revisión bibliográfica]]
 - [[Metodología de la revisión bibliográfica]] 
 - [[Ejes de respuesta de la revisión bibliográfica]]
 

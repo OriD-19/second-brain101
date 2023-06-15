@@ -1,0 +1,2 @@
+La [[ProyectoInt_Revisión bibliográfica|Revisión bibliográfica]] debe introducir a sus lectores con un contexto que presente el estado de la cuestión y los conceptos más importantes.
+Para ello, la introducción sirve como punto de entrada para describir las diferentes ideas principales que se plantearon desde la pregunta de investigación (expuesta en la [[Metodología de la revisión bibliográfica]]).

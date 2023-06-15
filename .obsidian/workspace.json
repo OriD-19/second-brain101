@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md",
+                "file": "Notes/ProyectoInt_Revisión bibliográfica.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md",
+                "file": "Notes/ProyectoInt_Revisión bibliográfica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md",
+                "file": "Notes/ProyectoInt_Revisión bibliográfica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematical Thinking/Mathematical Thinking.md"
+                "file": "Notes/ProyectoInt_Revisión bibliográfica.md"
               }
             }
           }
@@ -192,16 +192,18 @@
   },
   "active": "6f8eb11edc92a177",
   "lastOpenFiles": [
+    "Notes/ProyectoInt_Revisión bibliográfica.md",
+    "Notes/Introducción de una revisión bibliográfica.md",
+    "Day Planners/Day Planner-20230614.md",
+    "Notes/Mathematical Thinking/Mathematical Thinking.md",
     "Notes/Tareas pendientes.md",
     "Notes/Competitive Programming/USACO/Censoring.md",
     "Day Planners/Day Planner-20230613.md",
-    "Notes/Mathematical Thinking/Mathematical Thinking.md",
     "Day Planners",
     "Notes/ProyectoInt_Investigación.md",
     "Notes/Competitive Programming/USACO",
     "Notes/Competitive Programming",
     "Notes/ProyectoInt_Resultados de la investigación.md",
-    "Notes/ProyectoInt_Revisión bibliográfica.md",
     "Notes/Ejes de respuesta de la revisión bibliográfica.md",
     "Notes/Metodología de la revisión bibliográfica.md",
     "Notes/Resumen de una revisión bibliográfica.md",
@@ -222,8 +224,6 @@
     "Notes/Git Steps To Setup.md",
     "Notes/LengIILectI_Cómo hacer resúmenes.md",
     "Notes/ProyectoInt_El verdadero investigador.md",
-    "References/@La Inteligencia Artificial impulsa el crecimiento de las empresas (2022).md",
-    "References/@Como la Inteligencia Artificial puede apoyar el crecimiento (2017).md",
     "Templates",
     "References/My Library.bib",
     "References",
