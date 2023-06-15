@@ -30,5 +30,14 @@
   "anuppuccin-theme-settings@@anp-toggle-preview": true,
   "anuppuccin-theme-settings@@anp-decoration-toggle": false,
   "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
-  "anuppuccin-theme-settings@@anp-table-toggle": false
+  "anuppuccin-theme-settings@@anp-table-toggle": false,
+  "sanctum@@light-mode-contrast-mode": "sanctum-default-light",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-contrast-dark",
+  "sanctum@@color-accent-rgb-d": "99, 149, 156",
+  "sanctum@@active-line-accent": "transparent",
+  "sanctum@@aside-counter": false,
+  "sanctum@@aside-border": false,
+  "sanctum@@hide-vault-title": false,
+  "sanctum@@wrap-nav-titles": true,
+  "sanctum@@indentation-guide-active": "var(--interactive)"
 }

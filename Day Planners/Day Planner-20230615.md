@@ -1,0 +1,36 @@
+## Day Planner
+```mermaid
+gantt
+    dateFormat  HH-mm
+    axisFormat %H:%M
+    %% Current Time: 09:47:57
+    section Tasks
+    Do some coding     :09-00, 90mm
+    Exercise!     :10-30, 60mm
+    Start preparing the reading session     :11-30, 60mm
+    Rest time     :12-30, 90mm
+    Keep reading     :14-00, 120mm
+    Half-hour break     :16-00, 30mm
+    Continue the reading     :16-30, 150mm
+    Rest     :19-00, 60mm
+    Continue reading     :20-00, 120mm
+    Time to rest! 😴     :22-00, 0mm
+    section Breaks
+
+```
+
+- [ ] 09:00 Do some coding
+- [ ] 10:30 Exercise!
+- [ ] 11:30 Start preparing the reading session
+- [ ] 12:30 Rest time
+- [ ] 14:00 Keep reading
+- [ ] 16:00 Half-hour break
+- [ ] 16:30 Continue the reading
+- [ ] 19:00 Rest
+- [ ] 20:00 Continue reading
+- [ ] 22:00 Time to rest! 😴
+
+## Associated tasks for today 
+```tasks
+path includes ProyectoInt
+```

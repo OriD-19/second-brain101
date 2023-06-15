@@ -8,27 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fe7be5c6ccb999a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "199ac871d4cb4c20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Introducción de una revisión bibliográfica.md",
-                "mode": "preview",
+                "file": "Notes/ProyectoInt_Revisión bibliográfica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9918e6519b777be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Tareas pendientes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8a5071ffc498ed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Ecommerce with Flask.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -79,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "465ca71036457829",
@@ -88,6 +105,7 @@
       {
         "id": "f19b920e6033ef38",
         "type": "tabs",
+        "dimension": 32.98611111111111,
         "children": [
           {
             "id": "108420668aa69901",
@@ -95,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Introducción de una revisión bibliográfica.md",
+                "file": "Notes/Ecommerce with Flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Introducción de una revisión bibliográfica.md",
+                "file": "Notes/Ecommerce with Flask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,8 +153,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Introducción de una revisión bibliográfica.md"
+                "file": "Notes/Ecommerce with Flask.md"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec0a17a2e52d181d",
+        "type": "tabs",
+        "dimension": 32.175925925925924,
+        "children": [
+          {
+            "id": "1fe7be5c6ccb999a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -144,6 +177,7 @@
       {
         "id": "e4d7c5eb5accc767",
         "type": "tabs",
+        "dimension": 34.83796296296296,
         "children": [
           {
             "id": "090920c97b421c1e",
@@ -157,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,22 +208,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "199ac871d4cb4c20",
+  "active": "f8a5071ffc498ed1",
   "lastOpenFiles": [
+    "Notes/Flask pending projects.md",
+    "Notes/Ecommerce with Flask.md",
+    "Notes/Untitled.md",
+    "Notes/Tareas pendientes.md",
+    "Day Planners/Day Planner-20230615.md",
+    "Notes/ProyectoInt_Investigación.md",
     "Notes/ProyectoInt_Revisión bibliográfica.md",
+    "Notes/Introducción de una revisión bibliográfica.md",
     "Mind Maps",
     "Untitled 1.canvas",
-    "Notes/Tareas pendientes.md",
     "Notes/Competitive Programming/USACO/Censoring.md",
     "Untitled.canvas",
     "References/@Inteligencia Artificial_ el futuro del empleo (2023).md",
-    "Notes/Untitled.md",
-    "Notes/Introducción de una revisión bibliográfica.md",
     "Day Planners/Day Planner-20230614.md",
     "Notes/Mathematical Thinking/Mathematical Thinking.md",
     "Day Planners/Day Planner-20230613.md",
     "Day Planners",
-    "Notes/ProyectoInt_Investigación.md",
     "Notes/Competitive Programming/USACO",
     "Notes/Competitive Programming",
     "Notes/ProyectoInt_Resultados de la investigación.md",
@@ -208,9 +244,7 @@
     "Notes/Mathematical Thinking/~syncthing~Mathematical Thinking.md.tmp",
     "Notes/EmpILectI_El ADN del innovador.md",
     "Notes/EmpILectII_Segmenta el mercado.md",
-    "Notes/Simetría dada una función.md",
     "Notes/Mathematical Thinking",
-    "Notes/Emprendimiento I.md",
     "Templates",
     "References/My Library.bib",
     "References",
