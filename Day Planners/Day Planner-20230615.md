@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 09:47:57
+    %% Current Time: 10:47:35
     section Tasks
     Do some coding     :09-00, 90mm
     Exercise!     :10-30, 60mm
@@ -19,7 +19,7 @@ gantt
 
 ```
 
-- [ ] 09:00 Do some coding
+- [x] 09:00 Do some coding
 - [ ] 10:30 Exercise!
 - [ ] 11:30 Start preparing the reading session
 - [ ] 12:30 Rest time
