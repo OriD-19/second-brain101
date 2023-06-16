@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Ecommerce with Flask.md",
+                "file": "Notes/Tipos de trabajo según su nivel de automatización.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "794ca74e0c173d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/@The impact of artificial intelligence on labor productivity (2021).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Ecommerce with Flask.md",
+                "file": "References/@The impact of artificial intelligence on labor productivity (2021).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Ecommerce with Flask.md",
+                "file": "References/@The impact of artificial intelligence on labor productivity (2021).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Ecommerce with Flask.md"
+                "file": "References/@The impact of artificial intelligence on labor productivity (2021).md"
               }
             }
           }
@@ -197,12 +209,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8a5071ffc498ed1",
+  "active": "794ca74e0c173d3c",
   "lastOpenFiles": [
-    "Notes/Modularizing a Flask app.md",
+    "References/@The future of employment_ How susceptible are jobs to computerisation_ (2017).md",
+    "References/@The impact of artificial intelligence on labor productivity (2021).md",
+    "References/@Inteligencia Artificial_ el futuro del empleo (2023).md",
+    "References/@La inteligencia artificial en la industria - VS Sistemas (2017).md",
+    "Notes/Tipos de trabajo según su nivel de automatización.md",
     "Notes/ProyectoInt_Revisión bibliográfica.md",
-    "Notes/Tareas pendientes.md",
     "Notes/Ecommerce with Flask.md",
+    "Notes/Modularizing a Flask app.md",
+    "Notes/Tareas pendientes.md",
     "Notes/Flask pending projects.md",
     "Notes/Untitled.md",
     "Day Planners/Day Planner-20230615.md",
@@ -212,7 +229,6 @@
     "Untitled 1.canvas",
     "Notes/Competitive Programming/USACO/Censoring.md",
     "Untitled.canvas",
-    "References/@Inteligencia Artificial_ el futuro del empleo (2023).md",
     "Day Planners/Day Planner-20230614.md",
     "Notes/Mathematical Thinking/Mathematical Thinking.md",
     "Day Planners/Day Planner-20230613.md",
@@ -228,11 +244,7 @@
     "Notes/EmpI_Lecturas pendientes.md",
     "Notes/Notas antiguas/Laravel Pending concepts.md",
     "Notes/Notas antiguas/Liderazgo - Workshop.md",
-    "Notes/Mathematical Thinking/What is mathematics.md",
-    "Notes/Mathematical Thinking/Language and proofs.md",
-    "Notes/Background Document.md",
     "Notes/Mathematical Thinking/~syncthing~Mathematical Thinking.md.tmp",
-    "Notes/EmpILectI_El ADN del innovador.md",
     "Notes/Mathematical Thinking",
     "Templates",
     "References/My Library.bib",
