@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 12:10:19
+    %% Current Time: 15:18:41
     section Tasks
     Read  A LOT     :10-00, 120mm
     READ READ READ     :14-00, 120mm
@@ -16,7 +16,7 @@ gantt
 ```
 
 - [x] 10:00 Read  A LOT
-- [ ] 12:00 BREAK
+- [x] 12:00 BREAK
 - [ ] 14:00 READ READ READ
 - [ ] 16:00 BREAK
 - [ ] 16:30 READREAD READ
