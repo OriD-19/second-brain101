@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/@The impact of artificial intelligence on labor productivity (2021).md",
+                "file": "References/@Is Innovation Destroying Jobs_ Firm-Level Evidence from the EU (2018).md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/@The impact of artificial intelligence on labor productivity (2021).md",
+                "file": "References/@Is Innovation Destroying Jobs_ Firm-Level Evidence from the EU (2018).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/@The impact of artificial intelligence on labor productivity (2021).md",
+                "file": "References/@Is Innovation Destroying Jobs_ Firm-Level Evidence from the EU (2018).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/@The impact of artificial intelligence on labor productivity (2021).md"
+                "file": "References/@Is Innovation Destroying Jobs_ Firm-Level Evidence from the EU (2018).md"
               }
             }
           }
@@ -211,11 +211,12 @@
   },
   "active": "794ca74e0c173d3c",
   "lastOpenFiles": [
-    "References/@The future of employment_ How susceptible are jobs to computerisation_ (2017).md",
+    "Notes/Tipos de trabajo según su nivel de automatización.md",
+    "References/@Is Innovation Destroying Jobs_ Firm-Level Evidence from the EU (2018).md",
     "References/@The impact of artificial intelligence on labor productivity (2021).md",
+    "References/@The future of employment_ How susceptible are jobs to computerisation_ (2017).md",
     "References/@Inteligencia Artificial_ el futuro del empleo (2023).md",
     "References/@La inteligencia artificial en la industria - VS Sistemas (2017).md",
-    "Notes/Tipos de trabajo según su nivel de automatización.md",
     "Notes/ProyectoInt_Revisión bibliográfica.md",
     "Notes/Ecommerce with Flask.md",
     "Notes/Modularizing a Flask app.md",
@@ -243,7 +244,6 @@
     "Notes/Mathematical Thinking/~syncthing~Mathematical Thinking.sync-conflict-20230604-213322-ECTBX6Q.md.tmp",
     "Notes/EmpI_Lecturas pendientes.md",
     "Notes/Notas antiguas/Laravel Pending concepts.md",
-    "Notes/Notas antiguas/Liderazgo - Workshop.md",
     "Notes/Mathematical Thinking/~syncthing~Mathematical Thinking.md.tmp",
     "Notes/Mathematical Thinking",
     "Templates",
