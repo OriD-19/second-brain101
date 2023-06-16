@@ -1,2 +1,24 @@
 ## Day Planner
-- [ ] 
+```mermaid
+gantt
+    dateFormat  HH-mm
+    axisFormat %H:%M
+    %% Current Time: 11:10:58
+    section Tasks
+    Read  A LOT     :10-00, 120mm
+    READ READ READ     :14-00, 120mm
+    READREAD READ     :16-30, 90mm
+    Start planning how the paper will look like     :18-00, 270mm
+    Bed time😴     :22-30, 0mm
+    section Breaks
+    BREAK     :12-00, 120mm
+    BREAK     :16-00, 30mm
+```
+
+- [ ] 10:00 Read  A LOT
+- [ ] 12:00 BREAK
+- [ ] 14:00 READ READ READ
+- [ ] 16:00 BREAK
+- [ ] 16:30 READREAD READ
+- [ ] 18:00 Start planning how the paper will look like
+- [ ] 22:30 Bed time😴
