@@ -4,7 +4,7 @@
   "newFileFolderPath": "Notes",
   "attachmentFolderPath": "Files",
   "vimMode": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "showFrontmatter": true,
   "showUnsupportedFiles": true,
   "spellcheck": true,

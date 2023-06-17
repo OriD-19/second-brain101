@@ -39,9 +39,9 @@
               "state": {
                 "file": "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
                 "viewState": {
-                  "x": -240.27095673455085,
-                  "y": -459.56367303421945,
-                  "zoom": -1.25
+                  "x": 321.76160597161123,
+                  "y": 1696.344149073803,
+                  "zoom": -0.8333333333333333
                 }
               }
             }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ejes ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,13 +93,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "465ca71036457829",
@@ -214,23 +212,25 @@
   },
   "active": "4431d7c02bbeebe1",
   "lastOpenFiles": [
+    "References/@El impacto de la Inteligencia Artificial en el trabajo (2019).md",
+    "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
+    "References/@Inteligencia Artificial_ el futuro del empleo (2023).md",
+    "Mind Maps/~syncthing~El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas.tmp",
     "Files/Artificial-Intelligence-12r-2323124356.jpg",
     "Notes/Ejes de respuesta de la revisión bibliográfica.md",
     "Notes/Tipos de trabajo según su nivel de automatización.md",
     "Notes/ProyectoInt_Revisión bibliográfica.md",
     "Notes/Resumen de una revisión bibliográfica.md",
-    "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
     "Files/Pasted image 20230617084536.png",
     "References/@La relación capital-trabajo en la Industria 4.0_ The capital-labor relationship in Industry 4.0. (2022).md",
     "Day Planners/Day Planner-20230617.md",
     "References/@El Impacto de la inteligencia Artificial en el Trabajo (2021).md",
-    "References/@Artificial Intelligence and Labor Productivity Paradox_ The Economic Impact of AI in China, India, Japan, and Singapore _ Journal of Economics, Finance and Accounting Studies (2021).md",
+    "References/@Artificial Intelligence and Labor Productivity Paradox_ The Economic Impact of AI in China, India, Japan, and Singapore (2021).md",
     "References/@La Inteligencia Artificial en empresas peruanas e impactos laborales en los trabajadores (2021).md",
     "References/@Is Innovation Destroying Jobs_ Firm-Level Evidence from the EU (2018).md",
     "Day Planners/Day Planner-20230616.md",
     "References/@The impact of artificial intelligence on labor productivity (2021).md",
     "References/@The future of employment_ How susceptible are jobs to computerisation_ (2017).md",
-    "References/@Inteligencia Artificial_ el futuro del empleo (2023).md",
     "References/@La inteligencia artificial en la industria - VS Sistemas (2017).md",
     "Notes/Ecommerce with Flask.md",
     "Notes/Modularizing a Flask app.md",
@@ -244,7 +244,6 @@
     "Untitled 1.canvas",
     "Notes/Competitive Programming/USACO/Censoring.md",
     "Untitled.canvas",
-    "Day Planners/Day Planner-20230614.md",
     "Day Planners",
     "Notes/Competitive Programming/USACO",
     "Notes/Competitive Programming",
@@ -253,7 +252,6 @@
     "Notes/Mathematical Thinking",
     "Templates",
     "References/My Library.bib",
-    "References",
     "Notes/Notas antiguas/Paradigmas.canvas",
     "Files/Pasted image 20230218172728.png",
     "Files/Pasted image 20230218171623.png",
@@ -262,7 +260,6 @@
     "Files/Pasted image 20221229092358.png",
     "Files/Pasted image 20230122111614.png",
     "Files/Pasted image 20221229091858.png",
-    "Files/Pasted image 20221229091306.png",
-    "Files/Pasted image 20221216160124.png"
+    "Files/Pasted image 20221229091306.png"
   ]
 }
