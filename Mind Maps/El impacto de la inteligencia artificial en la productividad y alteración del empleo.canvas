@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"type":"text","text":"El impacto de la inteligencia artificial en la productividad y alteración del empleo","id":"0bb85f4f6231545a","x":-840,"y":-220,"width":295,"height":124},
+		{"type":"text","text":"Introducción","id":"7ffebd762cb27115","x":-362,"y":-476,"width":250,"height":60},
+		{"type":"text","text":"Sus aplicaciones en el trabajo","id":"1575c324be075cb8","x":92,"y":-620,"width":250,"height":94},
+		{"type":"text","text":"Ejes temáticos","id":"3de9e984e4a1e2b0","x":-819,"y":-589,"width":250,"height":60},
+		{"type":"file","file":"Notes/ProyectoInt_Revisión bibliográfica.md","id":"47305d7f23f54966","x":-1340,"y":-189,"width":400,"height":400},
+		{"id":"9a3c750c0df01c03","x":-1400,"y":-1093,"width":400,"height":400,"type":"file","file":"Notes/Ejes de respuesta de la revisión bibliográfica.md"},
+		{"type":"file","file":"Notes/Introducción de una revisión bibliográfica.md","id":"4792805cde0660fc","x":-569,"y":-1200,"width":400,"height":400},
+		{"type":"text","text":"¿Qué es la IA?","id":"ac66d04f56a04ca7","x":-80,"y":-860,"width":250,"height":60},
+		{"type":"text","text":"Popularidad de la inteligencia artificial","id":"0e5ac5924eb98e97","x":45,"y":-736,"width":250,"height":87},
+		{"id":"04faf1194982837f","x":-880,"y":-1261,"width":250,"height":401,"type":"text","text":"Posibles ejes de respuesta:\n- Automatización de labores rutinarias.\n- Aumento en la productividad y cobotización.\n- Educación y capacitación de los profesionales."},
+		{"id":"63cf213db995f49a","x":-1240,"y":-511,"width":340,"height":191,"type":"file","file":"Files/Artificial-Intelligence-12r-2323124356.jpg"},
+		{"type":"text","text":"Hallazgos","id":"dd41ec4ce11c493c","x":-362,"y":-189,"width":250,"height":60},
+		{"type":"text","text":"Conclusiones","id":"50a59f1a97e6c0d1","x":-362,"y":120,"width":250,"height":60},
+		{"id":"192ad009d1db056b","x":92,"y":-216,"width":250,"height":115,"type":"text","text":"Responder según los [[Ejes de respuesta de la revisión bibliográfica]] ."},
+		{"id":"1b631b764894146b","x":380,"y":-573,"width":400,"height":400,"type":"file","file":"Notes/Metodología de la revisión bibliográfica.md"},
+		{"id":"682a712789337975","x":108,"y":120,"width":250,"height":120,"type":"text","text":"Dar una respuesta final a la pregunta de investigación."}
+	],
+	"edges":[
+		{"id":"d7e837d8b7d77a99","fromNode":"0bb85f4f6231545a","fromSide":"right","toNode":"7ffebd762cb27115","toSide":"left"},
+		{"id":"4129e7fd43ef93cc","fromNode":"0bb85f4f6231545a","fromSide":"right","toNode":"dd41ec4ce11c493c","toSide":"left"},
+		{"id":"cb2e1acb7c6c7293","fromNode":"0bb85f4f6231545a","fromSide":"right","toNode":"50a59f1a97e6c0d1","toSide":"left"},
+		{"id":"8249e26b0ecba7f1","fromNode":"7ffebd762cb27115","fromSide":"right","toNode":"0e5ac5924eb98e97","toSide":"left"},
+		{"id":"b3d482914066be44","fromNode":"7ffebd762cb27115","fromSide":"right","toNode":"ac66d04f56a04ca7","toSide":"left"},
+		{"id":"ffd33630069e2fe7","fromNode":"7ffebd762cb27115","fromSide":"right","toNode":"1575c324be075cb8","toSide":"left"},
+		{"id":"d8e3ffbffbe74b36","fromNode":"0bb85f4f6231545a","fromSide":"top","toNode":"3de9e984e4a1e2b0","toSide":"bottom"},
+		{"id":"c258cbbec290f0dc","fromNode":"0bb85f4f6231545a","fromSide":"left","toNode":"47305d7f23f54966","toSide":"right"},
+		{"id":"9854bd2b05c213fe","fromNode":"7ffebd762cb27115","fromSide":"top","toNode":"4792805cde0660fc","toSide":"bottom"},
+		{"id":"ad78a05f625cf095","fromNode":"3de9e984e4a1e2b0","fromSide":"top","toNode":"9a3c750c0df01c03","toSide":"bottom"},
+		{"id":"f8c9a9b68b4644d2","fromNode":"3de9e984e4a1e2b0","fromSide":"top","toNode":"04faf1194982837f","toSide":"bottom"},
+		{"id":"f4f85551ea12d4df","fromNode":"7ffebd762cb27115","fromSide":"top","toNode":"3de9e984e4a1e2b0","toSide":"right"},
+		{"id":"0553e9b77fd6b4cd","fromNode":"7ffebd762cb27115","fromSide":"bottom","toNode":"dd41ec4ce11c493c","toSide":"top"},
+		{"id":"238aad0dd24f5f32","fromNode":"dd41ec4ce11c493c","fromSide":"bottom","toNode":"50a59f1a97e6c0d1","toSide":"top"},
+		{"id":"ee50e9d64b6e417e","fromNode":"dd41ec4ce11c493c","fromSide":"right","toNode":"192ad009d1db056b","toSide":"left"},
+		{"id":"ec2750a632b8f4fa","fromNode":"dd41ec4ce11c493c","fromSide":"top","toNode":"3de9e984e4a1e2b0","toSide":"bottom"},
+		{"id":"f1ac0353f2d8acce","fromNode":"dd41ec4ce11c493c","fromSide":"right","toNode":"1b631b764894146b","toSide":"left"},
+		{"id":"f88e3545c5914219","fromNode":"7ffebd762cb27115","fromSide":"right","toNode":"1b631b764894146b","toSide":"left"},
+		{"id":"b90c2ec75647b94e","fromNode":"50a59f1a97e6c0d1","fromSide":"right","toNode":"682a712789337975","toSide":"left"}
+	]
+}
