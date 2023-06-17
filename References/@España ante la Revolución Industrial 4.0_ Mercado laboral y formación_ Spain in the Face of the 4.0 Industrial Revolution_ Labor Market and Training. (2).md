@@ -1,0 +1,7 @@
+---
+title: "España ante la Revolución Industrial 4.0: Mercado laboral y formación: Spain in the Face of the 4.0 Industrial Revolution: Labor Market and Training."
+authors: Álvaro Choi
+year: 2
+DOI: 10.12795/araucaria.2021.i47.21
+---
+The process of robotization and the introduction of artificial intelligence which are linked to the 4.0 Industrial Revolution imply economic and social changes. This article analyzes its implications for the Spanish labor market, discussing the existence of possible imbalances, present or future, between the supply and demand of workers. For this reason this study assesses, on the one hand, the recent evolution of the Spanish productive structure and, on the other, the labor supply. More specifically, special attention is paid to the educational level and skills of the workers, since they are central in the definition of the professional profiles generated as a result of the digitization and automation of the economy. A number of the strengths and weaknesses of the formative structure of the Spanish population are then discussed. The 4.0 Industrial Revolution creates new opportunities for workers with a higher level of training and high digital, financial or STEM skills. On the contrary, older workers and workers with a lower level of training appear among the most vulnerable groups. The introduction of reforms in the training system is urgent not only to consolidate the process of economic transformation, but also to minimize the social costs associated with the 4.0 Industrial Revolution. (English)

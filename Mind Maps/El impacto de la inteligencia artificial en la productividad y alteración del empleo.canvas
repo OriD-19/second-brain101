@@ -17,17 +17,20 @@
 		{"type":"file","file":"Notes/Metodología de la revisión bibliográfica.md","id":"1b631b764894146b","x":380,"y":-573,"width":400,"height":400},
 		{"type":"text","text":"Dar una respuesta final a la pregunta de investigación.","id":"682a712789337975","x":130,"y":-40,"width":250,"height":120},
 		{"type":"text","text":"Cobotización","id":"a84c76b46fb208d5","x":-377,"y":1356,"width":250,"height":60},
-		{"type":"text","text":"Educación","id":"017fb487dec4b232","x":-376,"y":1818,"width":250,"height":60},
-		{"type":"file","file":"References/@Inteligencia Artificial_ el futuro del empleo (2023).md","id":"97e716afeeed7357","x":45,"y":2000,"width":378,"height":180},
 		{"type":"file","file":"References/@La Inteligencia Artificial en empresas peruanas e impactos laborales en los trabajadores (2021).md","id":"473ea631f4d5260e","x":45,"y":1706,"width":547,"height":225},
 		{"type":"file","file":"References/@Artificial Intelligence and Labor Productivity Paradox_ The Economic Impact of AI in China, India, Japan, and Singapore (2021).md","id":"aff3ef59aea36fe1","x":115,"y":1311,"width":610,"height":149},
-		{"type":"text","text":"Automatización","id":"8da2c8caaf4ffd73","x":-376,"y":920,"width":250,"height":60},
 		{"type":"text","text":"Clasicación según ejes temáticos","id":"51c5a6df08d58f63","x":-832,"y":1338,"width":250,"height":99},
 		{"type":"file","file":"References/@The future of employment_ How susceptible are jobs to computerisation_ (2017).md","id":"2b698886243cb57f","x":110,"y":360,"width":540,"height":173},
 		{"type":"file","file":"References/@The impact of artificial intelligence on labor productivity (2021).md","id":"f3605ea93bc9752f","x":130,"y":1080,"width":530,"height":165},
 		{"type":"file","file":"References/@Is Innovation Destroying Jobs_ Firm-Level Evidence from the EU (2018).md","id":"6311a64f77b3528a","x":110,"y":580,"width":507,"height":174},
 		{"type":"file","file":"References/@La relación capital-trabajo en la Industria 4.0_ The capital-labor relationship in Industry 4.0. (2022).md","id":"abaecf1e862d3628","x":115,"y":805,"width":716,"height":175},
-		{"id":"f4c11989400f082e","x":110,"y":1520,"width":685,"height":99,"type":"file","file":"References/@El impacto de la Inteligencia Artificial en el trabajo (2019).md"}
+		{"type":"file","file":"References/@El impacto de la Inteligencia Artificial en el trabajo (2019).md","id":"f4c11989400f082e","x":110,"y":1520,"width":685,"height":99},
+		{"type":"file","file":"References/@España ante la Revolución Industrial 4.0_ Mercado laboral y formación_ Spain in the Face of the 4.0 Industrial Revolution_ Labor Market and Training. (2).md","id":"372e45129de6d3b3","x":45,"y":2280,"width":638,"height":289},
+		{"type":"file","file":"References/@Inteligencia Artificial_ el futuro del empleo (2023).md","id":"97e716afeeed7357","x":175,"y":2000,"width":378,"height":180},
+		{"type":"text","text":"Educación","id":"017fb487dec4b232","x":-377,"y":2150,"width":250,"height":60},
+		{"type":"text","text":"Automatización","id":"8da2c8caaf4ffd73","x":-377,"y":667,"width":250,"height":60},
+		{"id":"1ee4838678c0afd5","x":-420,"y":1080,"width":400,"height":164,"type":"file","file":"References/@Work in the digital Economy_Sorting the old from the new (2016).md"},
+		{"type":"file","file":"References/@Artificial intelligence and internet of things adoption in operations management_ Barriers and benefits_ Barreiras e benefícios na adoção de inteligência artificial e IoT na gestão de operação. (2022).md","id":"a0338c0f9361bf04","x":-425,"y":840,"width":410,"height":175}
 	],
 	"edges":[
 		{"id":"d7e837d8b7d77a99","fromNode":"0bb85f4f6231545a","fromSide":"right","toNode":"7ffebd762cb27115","toSide":"left"},
@@ -60,6 +63,11 @@
 		{"id":"ab4eaafa1dbd6f80","fromNode":"017fb487dec4b232","fromSide":"right","toNode":"473ea631f4d5260e","toSide":"left"},
 		{"id":"ce2ebb090d1e839c","fromNode":"a84c76b46fb208d5","fromSide":"right","toNode":"aff3ef59aea36fe1","toSide":"left"},
 		{"id":"579b91ade7a267f9","fromNode":"8da2c8caaf4ffd73","fromSide":"right","toNode":"abaecf1e862d3628","toSide":"left"},
-		{"id":"3e7ee1ae69e6c3a8","fromNode":"a84c76b46fb208d5","fromSide":"right","toNode":"f4c11989400f082e","toSide":"left"}
+		{"id":"3e7ee1ae69e6c3a8","fromNode":"a84c76b46fb208d5","fromSide":"right","toNode":"f4c11989400f082e","toSide":"left"},
+		{"id":"a9669477e7e835ae","fromNode":"017fb487dec4b232","fromSide":"right","toNode":"372e45129de6d3b3","toSide":"left"},
+		{"id":"6ee7b178c90d7406","fromNode":"8da2c8caaf4ffd73","fromSide":"bottom","toNode":"a0338c0f9361bf04","toSide":"top"},
+		{"id":"d4d66bd852defe42","fromNode":"a84c76b46fb208d5","fromSide":"top","toNode":"a0338c0f9361bf04","toSide":"bottom"},
+		{"id":"56cea1aff37f00d1","fromNode":"a84c76b46fb208d5","fromSide":"top","toNode":"1ee4838678c0afd5","toSide":"bottom"},
+		{"id":"0ceaed264fd9eab8","fromNode":"8da2c8caaf4ffd73","fromSide":"bottom","toNode":"1ee4838678c0afd5","toSide":"top"}
 	]
 }
