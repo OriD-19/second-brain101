@@ -39,8 +39,8 @@
               "state": {
                 "file": "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
                 "viewState": {
-                  "x": 401.4747792962901,
-                  "y": 1382.213111122991,
+                  "x": 275.5441253026333,
+                  "y": 1921.1424530885974,
                   "zoom": -0.7592556897803793
                 }
               }
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/@La relación capital-trabajo en la Industria 4.0_ The capital-labor relationship in Industry 4.0. (2022).md",
+                "file": "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/@La relación capital-trabajo en la Industria 4.0_ The capital-labor relationship in Industry 4.0. (2022).md",
+                "file": "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/@La relación capital-trabajo en la Industria 4.0_ The capital-labor relationship in Industry 4.0. (2022).md"
+                "file": "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas"
               }
             }
           }
@@ -210,7 +211,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4431d7c02bbeebe1",
+  "active": "5dd67452b605d09f",
   "lastOpenFiles": [
     "References/@Work in the digital Economy_Sorting the old from the new (2016).md",
     "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
