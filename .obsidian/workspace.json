@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9434d6e71e7eabec",
+        "id": "4bc8d5b23bc9821a",
         "type": "tabs",
         "children": [
           {
-            "id": "199ac871d4cb4c20",
+            "id": "380809e7f4ab47e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/ProyectoInt_Revisión bibliográfica.md",
-                "mode": "source",
+                "file": "Notes/EmpI_Océano Azul.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f8a5071ffc498ed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Tipos de trabajo según su nivel de automatización.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4431d7c02bbeebe1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
-                "viewState": {
-                  "x": 376.3084618532111,
-                  "y": 1381.6741725542481,
-                  "zoom": -0.3425890231137126
-                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -93,12 +66,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "465ca71036457829",
@@ -107,7 +80,7 @@
       {
         "id": "f19b920e6033ef38",
         "type": "tabs",
-        "dimension": 32.98611111111111,
+        "dimension": 34.02777777777778,
         "children": [
           {
             "id": "108420668aa69901",
@@ -115,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
+                "file": "Notes/EmpI_Océano Azul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
+                "file": "Notes/EmpI_Océano Azul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,37 +128,64 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas"
+                "file": "Notes/EmpI_Océano Azul.md"
               }
             }
           }
         ]
       },
       {
-        "id": "ec0a17a2e52d181d",
+        "id": "1a3847dc12e40138",
         "type": "tabs",
-        "dimension": 32.175925925925924,
+        "dimension": 28.935185185185187,
         "children": [
           {
-            "id": "1fe7be5c6ccb999a",
+            "id": "6dec9493cab14406",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/EmpI_Océano Azul.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.42967809143425173,
+                  "close": true
+                }
+              }
             }
           }
         ]
       },
       {
-        "id": "e4d7c5eb5accc767",
+        "id": "d1d9bafb7538adbb",
         "type": "tabs",
-        "dimension": 34.83796296296296,
+        "dimension": 37.03703703703704,
         "children": [
           {
-            "id": "090920c97b421c1e",
+            "id": "199ac871d4cb4c20",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "graph",
               "state": {}
             }
           }
@@ -211,37 +211,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4431d7c02bbeebe1",
+  "active": "380809e7f4ab47e3",
   "lastOpenFiles": [
-    "References/@Work in the digital Economy_Sorting the old from the new (2016).md",
+    "Notes/Notas antiguas/Liderazgo - Panorama general de los siete hábitos.md",
+    "Notes/EmpI_Océano Azul.md",
+    "Notes/ProyectoInt_Revisión bibliográfica.md",
+    "Notes/Flask pending projects.md",
+    "Day Planners/Day Planner-20230629.md",
+    "Notes/Introduction to algorithms/Exercise 1.1-2.md",
+    "Notes/Competitive Programming/USACO/Censoring.md",
+    "Notes/Metodología de la revisión bibliográfica.md",
+    "Notes/Git Steps To Setup.md",
+    "Notes/Ecommerce with Flask.md",
+    "Notes/Ejes de respuesta de la revisión bibliográfica.md",
+    "Notes/EmpI_Lecturas pendientes.md",
+    "Notes/EmpILectI_El ADN del innovador.md",
+    "Notes/Simetría dada una función.md",
+    "Notes/Tareas pendientes.md",
+    "Notes/Resumen de una revisión bibliográfica.md",
+    "Notes/ProyectoInt_Resultados de la investigación.md",
+    "Notes/Modularizing a Flask app.md",
+    "Notes/Tipos de trabajo según su nivel de automatización.md",
     "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
+    "References/@Work in the digital Economy_Sorting the old from the new (2016).md",
     "References/@Artificial intelligence and internet of things adoption in operations management_ Barriers and benefits_ Barreiras e benefícios na adoção de inteligência artificial e IoT na gestão de operação. (2022).md",
     "References/@España ante la Revolución Industrial 4.0_ Mercado laboral y formación_ Spain in the Face of the 4.0 Industrial Revolution_ Labor Market and Training. (2).md",
     "References/@El impacto de la Inteligencia Artificial en el trabajo (2019).md",
     "References/@Inteligencia Artificial_ el futuro del empleo (2023).md",
     "Mind Maps/~syncthing~El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas.tmp",
     "Files/Artificial-Intelligence-12r-2323124356.jpg",
-    "Notes/Ejes de respuesta de la revisión bibliográfica.md",
-    "Notes/Tipos de trabajo según su nivel de automatización.md",
-    "Notes/ProyectoInt_Revisión bibliográfica.md",
-    "Notes/Resumen de una revisión bibliográfica.md",
     "Files/Pasted image 20230617084536.png",
     "References/@La relación capital-trabajo en la Industria 4.0_ The capital-labor relationship in Industry 4.0. (2022).md",
     "Day Planners/Day Planner-20230617.md",
-    "References/@El Impacto de la inteligencia Artificial en el Trabajo (2021).md",
-    "References/@Artificial Intelligence and Labor Productivity Paradox_ The Economic Impact of AI in China, India, Japan, and Singapore (2021).md",
-    "References/@La Inteligencia Artificial en empresas peruanas e impactos laborales en los trabajadores (2021).md",
-    "References/@Is Innovation Destroying Jobs_ Firm-Level Evidence from the EU (2018).md",
-    "Day Planners/Day Planner-20230616.md",
-    "References/@The impact of artificial intelligence on labor productivity (2021).md",
-    "References/@The future of employment_ How susceptible are jobs to computerisation_ (2017).md",
-    "References/@La inteligencia artificial en la industria - VS Sistemas (2017).md",
-    "Notes/Ecommerce with Flask.md",
-    "Notes/Modularizing a Flask app.md",
-    "Notes/Tareas pendientes.md",
-    "Notes/Flask pending projects.md",
-    "Notes/Untitled.md",
-    "Day Planners/Day Planner-20230615.md",
     "Mind Maps",
     "Untitled 1.canvas",
     "Untitled.canvas",
