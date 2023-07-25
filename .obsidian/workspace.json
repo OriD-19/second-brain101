@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "465ca71036457829",
@@ -211,8 +210,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "380809e7f4ab47e3",
+  "active": "59b5a65ddef067ed",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230724.md",
     "Day Planners/Day Planner-20230718.md",
     "Day Planners/Day Planner-20230716.md",
     "Notes/Notas antiguas/Liderazgo - Panorama general de los siete hábitos.md",
@@ -239,7 +239,6 @@
     "References/@Artificial intelligence and internet of things adoption in operations management_ Barriers and benefits_ Barreiras e benefícios na adoção de inteligência artificial e IoT na gestão de operação. (2022).md",
     "References/@España ante la Revolución Industrial 4.0_ Mercado laboral y formación_ Spain in the Face of the 4.0 Industrial Revolution_ Labor Market and Training. (2).md",
     "References/@El impacto de la Inteligencia Artificial en el trabajo (2019).md",
-    "References/@Inteligencia Artificial_ el futuro del empleo (2023).md",
     "Mind Maps/~syncthing~El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas.tmp",
     "Files/Artificial-Intelligence-12r-2323124356.jpg",
     "Files/Pasted image 20230617084536.png",
