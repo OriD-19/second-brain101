@@ -12,6 +12,6 @@ gantt
 ```
 
 ### Afternoon routine
-- [ ] 15:00 Work on research
-- [ ] 17:00 BREAK
-- [ ] 18:00 More research
+- [x] 15:00 Work on research ✅ 2023-07-25
+- [x] 17:00 BREAK ✅ 2023-07-25
+- [x] 18:00 More research ✅ 2023-07-25

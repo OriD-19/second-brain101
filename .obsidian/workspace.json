@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/EmpI_Océano Azul.md",
+                "file": "Notes/Task trial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae5d349d094f41c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/EmpI_Océano Azul.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/EmpI_Océano Azul.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/EmpI_Océano Azul.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -144,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/EmpI_Océano Azul.md",
+                "file": "Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,16 +223,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59b5a65ddef067ed",
+  "active": "ae5d349d094f41c5",
   "lastOpenFiles": [
+    "Notes/Task trial.md",
+    "Tasks.md",
+    "Day Planners/Day Planner-20230725.md",
     "Day Planners/Day Planner-20230724.md",
     "Day Planners/Day Planner-20230718.md",
     "Day Planners/Day Planner-20230716.md",
-    "Notes/Notas antiguas/Liderazgo - Panorama general de los siete hábitos.md",
+    "Day Planners/Day Planner-20230629.md",
+    "Day Planners/Day Planner-20230617.md",
+    "Day Planners/Day Planner-20230616.md",
+    "Day Planners/Day Planner-20230615.md",
+    "Day Planners/Day Planner-20230613.md",
+    "Day Planners/Day Planner-20230614.md",
     "Notes/EmpI_Océano Azul.md",
+    "Notes/Notas antiguas/Liderazgo - Panorama general de los siete hábitos.md",
     "Notes/ProyectoInt_Revisión bibliográfica.md",
     "Notes/Flask pending projects.md",
-    "Day Planners/Day Planner-20230629.md",
     "Notes/Introduction to algorithms/Exercise 1.1-2.md",
     "Notes/Competitive Programming/USACO/Censoring.md",
     "Notes/Metodología de la revisión bibliográfica.md",
@@ -230,15 +251,7 @@
     "Notes/EmpILectI_El ADN del innovador.md",
     "Notes/Simetría dada una función.md",
     "Notes/Tareas pendientes.md",
-    "Notes/Resumen de una revisión bibliográfica.md",
-    "Notes/ProyectoInt_Resultados de la investigación.md",
-    "Notes/Modularizing a Flask app.md",
-    "Notes/Tipos de trabajo según su nivel de automatización.md",
     "Mind Maps/El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas",
-    "References/@Work in the digital Economy_Sorting the old from the new (2016).md",
-    "References/@Artificial intelligence and internet of things adoption in operations management_ Barriers and benefits_ Barreiras e benefícios na adoção de inteligência artificial e IoT na gestão de operação. (2022).md",
-    "References/@España ante la Revolución Industrial 4.0_ Mercado laboral y formación_ Spain in the Face of the 4.0 Industrial Revolution_ Labor Market and Training. (2).md",
-    "References/@El impacto de la Inteligencia Artificial en el trabajo (2019).md",
     "Mind Maps/~syncthing~El impacto de la inteligencia artificial en la productividad y alteración del empleo.canvas.tmp",
     "Files/Artificial-Intelligence-12r-2323124356.jpg",
     "Files/Pasted image 20230617084536.png",

@@ -1,5 +1,5 @@
 # Tareas pendientes actualmente
 
-- [ ] 📅 2023-06-11 ⏫ Realizar las fichas bibliográficas
-    - [ ] Lectura de los documentos
-    - [ ] Datos más importantes de cada documento
+- [x] 📅 2023-06-11 ⏫ Realizar las fichas bibliográficas ✅ 2023-07-25
+    - [x] Lectura de los documentos ✅ 2023-07-25
+    - [x] Datos más importantes de cada documento ✅ 2023-07-25

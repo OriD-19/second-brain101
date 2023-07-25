@@ -1,0 +1,4 @@
+- [ ] Getting things done 📅 2023-07-26
+- [ ] This is a new task ⏫ 📅 2023-07-26
+- [ ] New task for Sunday 📅 2023-07-30 
+- [ ] New task for next week 📅 2023-08-01 

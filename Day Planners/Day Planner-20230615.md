@@ -27,8 +27,8 @@ gantt
 - [x] 16:00 Half-hour break
 - [x] 16:30 Continue the reading
 - [x] 19:00 Rest
-- [ ] 20:00 Continue reading
-- [ ] 22:00 Time to rest! 😴
+- [x] 20:00 Continue reading ✅ 2023-07-25
+- [x] 22:00 Time to rest! 😴 ✅ 2023-07-25
 
 ## Associated tasks for today 
 ```tasks
