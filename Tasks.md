@@ -7,3 +7,6 @@ due tomorrow
 ```tasks
 due this week
 ```
+```tasks
+done today
+```
