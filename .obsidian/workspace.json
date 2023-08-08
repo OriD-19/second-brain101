@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Task trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Task trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Task trial.md"
+              }
             }
           }
         ]
@@ -152,6 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/Task trial.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
